@@ -22,7 +22,7 @@ body {
     width: 100%;
     height: 100%;
     /* MAKE SURE your image file is named image_b00c38.jpg and in the same folder */
-    background-image: url('image_b00c38.png');
+    background-image: url('image_b00c38.jpg');
     background-size: cover; /* Cover the entire viewport */
     background-position: center center;
     background-attachment: fixed; /* Optional: keeps image position fixed on scroll */
